@@ -1,0 +1,15 @@
+import './App.css'
+import User from "./user.jsx"
+
+function App() {
+
+  return (
+    <>
+    <User status={false}/>
+    <User status={false}/>
+    </>
+  )
+}
+
+export default App
+

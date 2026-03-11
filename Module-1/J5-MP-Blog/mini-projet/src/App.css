@@ -1,0 +1,28 @@
+main {
+  width:80%;
+  margin:auto;
+}
+
+h1, h2 {
+  weight:700;
+}
+
+h1 {
+  color:#ff5555;
+  font-size:2.5rem;
+}
+
+h2 {
+  color:#8be9f2;
+  font-size:1.8rem;
+}
+
+.skills ul {
+  display:flex;
+}
+
+.skills li {
+  font-size:1.3rem;
+  margin:auto;
+  list-style:none;
+}
